@@ -1,8 +1,6 @@
 language: elixir
 elixir:
   - 1.6.4
-#before_script:
-#  - cp config/config.exs config/test.exs
 env:
   - MIX_ENV=test
 script:
