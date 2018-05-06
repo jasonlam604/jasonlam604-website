@@ -6,4 +6,4 @@ otp_release:
 before_script:
   - cp config/config.exs config/test.exs
 script:
-  - mix test --exclude integration
+  - mix test
