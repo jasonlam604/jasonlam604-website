@@ -70,10 +70,10 @@
               <i class="fa fa-users fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">Engineering Manager</h4>
-            <p class="text-muted">My leadership style would be best described as servant manager. One who prefers to be hands off and fully believes 110% an ideal situation is where I would be
-            surrounded by <i>Number Ones</i> who I would provide support to so they can do what they do best! That said I do realize a 10x team is not entirely made up of only star engineers 
+            <p class="text-muted">My leadership style would be best described as servant manager. One who prefers to be hands off and fully believes 110% an ideal situation is where I am 
+            surrounded by number ones; to the best of my abilities provide and remove road blocks allowing each team member to do what they do best! That said I do realize a 10x team is not entirely made up of only star engineers 
             but rather a well a high performing team made up of members where each 
-            members excel in their individual areas and as a whole contribute to the success of the team. I fully believe being a veteran not only in the industry but in life as well
+            member excels in their individual areas and as a whole contribute to the success of the team. I fully believe being a veteran not only in the industry; but also, through my own life experiences 
             provides me the insights and empathy when managing others; it provides me the perspective that yes there are work objectives but we are all human and life happens around us.</p>
           </div>
           <div class="col-md-4">
@@ -82,9 +82,11 @@
               <i class="fa fa-paper-plane fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">Solution Architect</h4>
-            <p class="text-muted">As ra esults-driven Solutions Architect I enjoy spearheading the management, architecture, design and implementation of IT solutions with high impact objective
+            <p class="text-muted">As a results-driven Solutions Architect I enjoy spearheading the management, architecture, design and implementation of IT solutions with high impact objective
             whether they are short-term tactic needs or long strategic objectives.  As pragmmatic architect I am well aware that most solutions if not all are not perfect and I am capable of
-            finding the right balance for achievable architecture solutions along side acceptable technical debt.</p>
+            finding the right balance for achievable architecture solutions along side acceptable technical debt. My experiences span across from legacy systems like Mainframe (COBOL,MVS,JCL), 3 tier archtiecture (VB, Java, CORBA), 
+            early mobile native developement (Java Waba, HDML, WML, DoCoMo Java, J2ME ...etc), modern mobile native development (iOS,Android) to highly available and scalable distrubuted architecture and more recently Microservices.
+            </p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
@@ -94,7 +96,7 @@
             <h4 class="service-heading">Senior Software Engineer</h4>
             <p class="text-muted">I believe as a technical lead and manager to gain the respect of software engineers I must continually have the technical chops to dive in 
             and contribute in development when required especically during critical times.  That said I have always had a passion to continually code outside of work 
-            including personal open source projects, contributing to others and/or contributing to startups.  Why?  Simply because its that 'buzz' feeling you get when
+            including personal open source projects, contributing to others and/or contributing to startups.  Why?  Simply because it is that 'buzz' feeling you get when
             get to hack away at something new and gain that sense of acheivement it works!</p>
           </div>
         </div>
@@ -118,12 +120,12 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="http://via.placeholder.com/400x300" alt="">
+              <div class="portfolio-caption">
+                <i class="fa fa-github fa-4x"></i>
+                <h4>Open Source</h4>
+                <p class="text-muted">Contributions</p>
+              </div>
             </a>
-            <div class="portfolio-caption">
-              <h4>Open Source</h4>
-              <p class="text-muted">Contributions</p>
-            </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
@@ -132,12 +134,12 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="http://via.placeholder.com/400x300" alt="">
+              <div class="portfolio-caption">
+                <i class="fa fa-book fa-4x"></i>
+                <h4>Articles &amp; Books</h4>
+                <p class="text-muted">Teaching &amp; Sharing</p>
+              </div>
             </a>
-            <div class="portfolio-caption">
-              <h4>Open Community</h4>
-              <p class="text-muted">Giving back</p>
-            </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
@@ -146,12 +148,12 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="http://via.placeholder.com/400x300" alt="">
+              <div class="portfolio-caption">
+                <i class="fa fa-rocket fa-4x"></i>
+                <h4>Start-Ups</h4>
+                <p class="text-muted">Mentor and Consultant</p>
+              </div>
             </a>
-            <div class="portfolio-caption">
-              <h4>Start-Ups</h4>
-              <p class="text-muted">Mentor and Consultant</p>
-            </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
@@ -160,12 +162,12 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="http://via.placeholder.com/400x300" alt="">
+              <div class="portfolio-caption">
+                <i class="fa fa-certificate fa-4x"></i>
+                <h4>Achievements</h4>
+                <p class="text-muted">Certifications &amp; Patents</p>
+              </div>
             </a>
-            <div class="portfolio-caption">
-              <h4>Achievement</h4>
-              <p class="text-muted">Certifications &amp; Patents</p>
-            </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
@@ -174,12 +176,12 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="http://via.placeholder.com/400x300" alt="">
+              <div class="portfolio-caption">
+                <i class="fa fa-leanpub fa-4x"></i>
+                <h4>Continuous Learning</h4>
+                <p class="text-muted">Cranking Code :)</p>
+              </div>
             </a>
-            <div class="portfolio-caption">
-              <h4>Continuous Learning</h4>
-              <p class="text-muted">Cranking Code :)</p>
-            </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
@@ -188,12 +190,12 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="http://via.placeholder.com/400x300" alt="">
+              <div class="portfolio-caption">
+                <i class="fa fa-thumbs-up fa-4x"></i>
+                <h4>More to Life</h4>
+                <p class="text-muted">My other passions</p>
+              </div>
             </a>
-            <div class="portfolio-caption">
-              <h4>More to Life</h4>
-              <p class="text-muted">My other passions</p>
-            </div>
           </div>
         </div>
       </div>
@@ -278,8 +280,16 @@
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Open Source</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <p class="item-intro text-muted">In my spare time I contribute to Open Source</p>
+                  <div class="text-left">
+                    <ul>
+                      <li><a href="https://github.com/jasonlam604/grunt-rename-util" target="_blank">Grunt Rename Plugin, Avg 8K dl/week</a> - (Owner)</li>
+                      <li><a href="https://github.com/jasonlam604/Stringizer" target="_blank">Stringizer, PHP String Manipulation Library</a> - (Owner)</li>
+                      <li><a href="https://github.com/asaskevich/govalidator" target="_blank">goValidator (GoLang), 2500+ stars</a> - (I contributed 11 fixes and features)</li>
+                      <li><a href="https://github.com/slimphp/Slim" target="_blank">Slim Framework (PHP), 5.75 million dl, 8900+ stars</a> - (I contributed 1 feature)</li>
+                      <li><a href="https://github.com/jasonlam604/" target="_blank">More Github contributions by me</a></li>
+                    </ul>
+                  </div>
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fa fa-times"></i>
                     Close Project</button>
@@ -334,8 +344,21 @@
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Start-Ups</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <p class="item-intro text-muted">I enjoy all the excitement that comes with Startups</p>
+                  <div class="text-left">
+                    <ul>
+                      <li><strong><a href="http://www.musefind.com " target="_blank">Musefind.com</a></strong>  - As a consultant I worked on early R&D technology initatives.</li>
+                      <li><strong>CuzzoMusic.com (dissolved)</strong> As consultant I provided technical leadership and provided mentorship where required.</li>
+                      <li><strong>RazorTechnology.com (dissolved)</strong> - Co-Founder/CTO - I was responsible for architecture and design for all systems.  Razortechnology was a finalist in the New Ventures BC competition and named to Rocket Builders "2008 Ready To Rocket - Emerging Rockets" list of up and coming technology companies.)</li>
+                      <li><strong>MoBro.com (dissolved)</strong> - Co-Founder</li>
+                      <li><strong>TruInvest (dissolved)</strong> - Co-Founder (was a day job)</li>
+                      <li><strong><a href="http://www.quotemedia.com" target="_blank">Quotemedia</a></strong> - Join on as the 4th technical resources as sole team member responsible for greenfield native mobile project (BlackBerry, Nokia, SonyEricsson, Siemens, Palm).  This was as day Job</li>
+                    </ul>
+                  </div>
+                  <p>
+                    In some of the above involvement I provided services related to strategic product road planning and startup activities related to obtaining additonal funds (SRED, IRAP, Angel Investing presentations)
+                  </p>
+                  
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fa fa-times"></i>
                     Close Project</button>
